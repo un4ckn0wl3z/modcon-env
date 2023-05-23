@@ -1,2 +1,2 @@
 # modcon-env
-Obfuscation Docker container ENV
+Obfuscation Docker container environment variables from docker inspect and linux "env" command
